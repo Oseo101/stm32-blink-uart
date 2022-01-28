@@ -6,9 +6,9 @@ Valdiklis: STM32F411 WeAct Blackpill V3.1
 USB-TTL: CH340
 
 Išspausdinta žinutė Serial terminale:
-![ALT text](https://github.com/Oseo101/stm32-blink-uart/blob/main/Capture.PNG)
+![](https://github.com/Oseo101/stm32-blink-uart/blob/main/Capture.PNG)
 Setupas USB UART komunikacijai:
-![ALT text](https://github.com/Oseo101/stm32-blink-uart/blob/main/20220128_140710.jpg)
+![](https://github.com/Oseo101/stm32-blink-uart/blob/main/20220128_140710.jpg =400x677)
 ```
 /* USER CODE BEGIN Header */
 /**
