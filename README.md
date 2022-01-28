@@ -7,5 +7,5 @@ USB-TTL: CH340
 
 Išspausdinta žinutė Serial terminale:
 ![Screenshot](https://github.com/Oseo101/stm32-blink-uart/blob/main/Capture.PNG)
-
+Setupas USB UART komunikacijai:
 ![Screenshot](https://github.com/Oseo101/stm32-blink-uart/blob/main/20220128_140710.jpg)
